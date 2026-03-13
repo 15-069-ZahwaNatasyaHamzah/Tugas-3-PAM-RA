@@ -5,6 +5,7 @@
 ## Deskripsi
 
 Aplikasi MyProfileApp merupakan aplikasi sederhana yang menampilkan profil mahasiswa, nama, deskripsi, serta informasi kontak seperti email, nomor telepon, dan lokasi.
+
 ---
 
 - **Nama:** Zahwa Natasya Hamzah
